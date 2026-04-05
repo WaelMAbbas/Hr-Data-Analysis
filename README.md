@@ -8,8 +8,8 @@ A collaborative HR data analysis project using Microsoft Power BI.
 | Project Manager | Wael Mohammed Abbas |
 | Data Collector | Ashraf Nabel Mohamed |
 | Data Cleaning Specialist | Gerges alfy Naseif |
-| Data Modeler / DAX Analyst | 3-	Antonious Hani Aziz  |
-| Dashboard Designer | 2-	Ahmed Mamdouh Fawzi |
+| Data Modeler / DAX Analyst | 	Antonious Hani Aziz  |
+| Dashboard Designer | 	Ahmed Mamdouh Fawzi |
 | QA Tester | Omar khaled elmetwally |
 
 ## Dataset
