@@ -5,12 +5,12 @@ A collaborative HR data analysis project using Microsoft Power BI.
 ## Team
 | Role | Member |
 |------|--------|
-| Project Manager | Wael |
-| Data Engineer | TBD |
-| Data Cleaning Specialist | TBD |
-| Data Modeler / DAX Analyst | TBD |
-| Dashboard Designer | TBD |
-| QA Tester | TBD |
+| Project Manager | Wael Mohammed Abbas |
+| Data Collector | Ashraf Nabel Mohamed |
+| Data Cleaning Specialist | Gerges alfy Naseif |
+| Data Modeler / DAX Analyst | 3-	Antonious Hani Aziz  |
+| Dashboard Designer | 2-	Ahmed Mamdouh Fawzi |
+| QA Tester | Omar khaled elmetwally |
 
 ## Dataset
 1,470 employees · 6,709 performance reviews · 5 CSV tables
